@@ -1,0 +1,13 @@
+﻿
+<resources>
+  <color name="primary">#2196F3</color>
+  <color name="primaryDark">#0069c0</color>
+  <color name="primaryLight">#6EC6FF</color>
+  <color name="accent">#FFC107</color>
+  <color name="window_background">#F5F5F5</color>
+  <color name="splash_background">#1976D2</color>
+
+  <color name="secondary">#455A64</color>
+  <color name="secondaryDark">#263238</color>
+  <color name="secondaryLight">#90A4AE</color>
+</resources>
