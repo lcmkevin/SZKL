@@ -1,13 +1,12 @@
-#SZKL -2JL-
+# SZKL -2JL-
 
-##Description
+## Description
 
 This is my first android app to use VS Xamarin to program.
-
 Hard to do it as I'm new to Android programming.
 
 ####This apps intended to show some pictures for my kids to view.
-####Nothing special but at least successfully implement the task.
+#### Nothing special but at least successfully implement the task.
 
 Current limited function:
 
